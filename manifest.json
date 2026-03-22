@@ -2,8 +2,15 @@
   "peer_id": "SolanaLeeky/peer-node-02",
   "tracker": "SolanaLeeky/GitTorrent",
   "storage_limit_mb": 2000,
-  "storage_used_mb": 0,
-  "chunk_count": 0,
-  "chunks": {},
-  "last_updated": ""
+  "storage_used_mb": 0.0,
+  "chunk_count": 1,
+  "chunks": {
+    "test-upload.txt": {
+      "chunks": [
+        "chunk_000"
+      ],
+      "total_size_mb": 0.0
+    }
+  },
+  "last_updated": "2026-03-22T08:43:43.433313+00:00"
 }
